@@ -1,0 +1,50 @@
+.edit-page {
+    padding: 20px 60px;  
+}
+
+.edit-page .page-content {
+    background-color: #FFF;
+}
+
+.edit-page .page-content .img-avatar {
+    border-radius: 50%;
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+}
+
+.edit-page .submit-button-container {
+    justify-content: flex-end;
+
+}
+
+.edit-page .submit-button-container .submit-button{
+    width: 100%;
+}
+
+.edit-page .submit-button-container .delete-button{
+    width: 100%;
+}
+
+.edit-page .submit-button-container .cancel-button{
+    width: 100%;
+    background-color: aqua;
+    color: darkmagenta
+}
+
+.edit-page .change-img-button {
+    display: block;
+    margin: 0px auto;
+}
+
+.edit-page .edit-form {
+padding: 20px; 
+}
+
+.edit-page .edit-form .input-style{
+width: 100%;
+}
+
+.edit-page .edit-form .mat-error {
+    font-size: 12px;
+ }

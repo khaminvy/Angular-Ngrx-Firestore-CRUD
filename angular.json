@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "ang-crud-firebase"
+  "defaultProject": "ang-crud-firebase",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }

@@ -1,0 +1,30 @@
+.users-list {
+    padding: 40px 60px;
+}
+
+.users-list .image-col {
+    text-align:center;
+}
+
+.users-list .image-col .image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.users-list .text-col {
+    margin: auto;
+}
+
+.users-list .actions-col {
+    text-align: center;
+    margin: auto 0px;
+}
+
+.users-list .actions-col .action {
+    line-height: 1;
+}
+
+.users-list .actions-col .icon {
+    font-size: 20px;
+}

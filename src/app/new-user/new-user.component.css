@@ -1,0 +1,40 @@
+.create-page {
+    padding: 20px 60px;
+    border: 5px solid brown;
+}
+
+.create-page .page-content {
+    background-color: rgb(256, 256, 256);
+}
+
+.create-page .page-content .img-avatar {
+    border-radius: 50%;
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+}
+
+.create-page .page-content .change-img-button {
+    display: block;
+    margin: 0px auto;
+}
+
+.create-page .page-content .create-form {
+    padding: 20px;
+}
+
+.create-page .page-content .create-form .submit-button-container {
+    justify-content: flex-end;
+}
+
+.create-page .page-content .create-form .submit-button-container .submit-button{
+    width: 100%;
+}
+
+.create-page .page-content .create-form .input-style{
+    width: 100%;
+}
+
+.create-page .page-content .create-form .mat-error {
+    font-size: 12px;
+}
